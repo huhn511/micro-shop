@@ -8,6 +8,6 @@ This Rust tutorial build a online shop microservice.
 - Create and Manage Products
 
 ## What you will learn?
-- Rust Webserver with actix
+- Rust Webserver with actix-web
 - Database with Postgres
 - CRUD with Models
