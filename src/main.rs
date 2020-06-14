@@ -8,7 +8,7 @@ pub mod db_connection;
 pub mod models;
 pub mod schema;
 
-pub mod handlers; // This goes to the top to load the next handlers module
+pub mod controllers; // This goes to the top to load the next controllers module
 
 extern crate serde;
 extern crate serde_json;
